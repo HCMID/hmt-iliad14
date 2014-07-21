@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Iliad</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished edition in progress.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>A new, born-digital diplomatic edition of the U4 manuscript of the Iliad,
+                    Marcianus Graecus Z.458. Diplomatic edition based on a digital facsimile
+                    prepared by the Center for Hellenic Studies in collaboration with the Biblioteca
+                    Marciana, M. Zorzi, Director.</p>
+                <p>The "template" text is based on the Venetus B manuscript, and is being corrected
+                    to a true diplomatic edition of the U4 manuscription.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="grc">Greek, in pre-composed UTF-8</language>
+                <language ident="eng">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body xml:lang="grc">
+            <div n="14">
+                <l n="419"><seg type="splitline">χειρός δ᾽ ἔκβαλεν ἔγχος</seg>
+                    <seg type="splitline">ἐπ᾽ αὐτῷ δ᾽ ἀσπῒς ἐάφθη</seg></l>
+                <l n="420"><seg type="splitline">καὶ κόρϋς ἀμφῒ δέ οἱ βράχε</seg>
+                    <seg type="splitline">τεύχεα ποικΐλα χαλκῷ</seg>
+                </l>
+                <l n="421"><seg type="splitline">οἱ δὲ, μέγα ¨ἰάχοντες</seg>
+                    <seg type="splitline">ἐπέδραμον υἷες Ἀχαιῶν·</seg></l>
+                <l n="422"><seg type="splitline">ἐλπόμενοι ἐρΰεσθαι</seg>
+                    <seg type="splitline">ἀκόντϊζον δὲ θαμειὰς</seg></l>
+                <l n="423"><seg type="splitline">αἰχμάς· ἀλλ᾽ οὔ τϊς δυνήσατο</seg>
+                    <seg type="splitline">ποιμένα λαῶν</seg></l>
+                <l n="424"><seg type="splitline">οὐτάσαι οὐδὲ βαλεῖν</seg>
+                    <seg type="splitline">πρῒν γὰρ περίβησαν ἄριστοι</seg>
+                </l>
+                <l n="425"><seg type="splitline">Πολϋδάμας τε καὶ Αἰνείας</seg><seg type="splitline"
+                        >καὶ δῗος Ἀγήνωρ·</seg>
+                </l>
+                <l n="426"><seg type="splitline"><seg type="word"><supplied reason="lost"
+                                >Σ</supplied>αρπηδών</seg> τ᾽ ἀρχὸς Λϋκΐων</seg><seg
+                        type="splitline">καὶ Γλαῦκος ἀμΰμων</seg></l>
+                <l n="427"><seg type="splitline">τῶν δ᾽ ἄλλων οὔ τΐς εὗ</seg>
+                    <seg type="splitline">ἀκήδεσεν· ἀλλὰ πάροιθεν</seg>
+                </l>
+                <l n="428"><seg type="splitline">ἀσπΐδας εὐκΰκλους</seg>
+                    <seg type="splitline">σχέθον αὐτοῦ. τόν δ᾽ ἀρ ἑταῖροι</seg>
+                </l>
+                <l n="429"><seg type="splitline">χερσῒν ἀείροντες φέρον·</seg>
+                    <seg type="splitline">ἐκ πόνου· ὄφρ᾽ ἵ¨κεθ᾽ ἵ¨ππους</seg>
+                </l>
+                <l n="430"><seg type="splitline">ὠκέας. οἵ οἱ ὄπϊσθεν</seg>
+                    <seg type="splitline">μάχης ἠδὲ πολέμοιο·</seg>
+                </l>
+                <l n="431"><seg type="splitline">ἔστασαν· ἡνΐοχόν τε</seg>
+                    <seg type="splitline">καὶ ἅρματα ποικΐλ᾽ ἔχοντες</seg>
+                </l>
+                <l n="432"><seg type="splitline">οἳ τόν γε προτὶ ἄστϋ φέρον</seg>
+                    <seg type="splitline">βαρέα στενάχοντα</seg>
+                </l>
+                <l n="433"><seg type="splitline">ἀλλ᾽ ὅτε δὴ πόρον ἶξον</seg>
+                    <seg type="splitline">ἐϋρῆος ποταμοῖο</seg>
+                </l>
+                <l n="434"><seg type="splitline">Ξάνθου δϊνήεντος</seg>
+                    <seg type="splitline">ὃν ἀθάνατος τέκετο Ζεὺς,</seg>
+                </l>
+                <l n="435"><seg type="splitline"><seg type="word">ἐν<supplied reason="lost"
+                                >θ</supplied>ά</seg> μϊν ἐξ ἵ¨ππων πέλασε</seg>
+                    <seg type="splitline">χθονΐ· καδ δέ οἱ ὕ¨δωρ</seg>
+                </l>
+                <l n="436"><seg type="splitline">χεῦαν· ὃ δ᾽ ἀμπνύνθη</seg>
+                    <seg type="splitline">καὶ ἀνέδρακεν ὀφθαλμοῖσϊν·</seg>
+                </l>
+                <l n="437"><seg type="splitline">ἑζόμενος δ᾽ ἐπῒ γούνα</seg>
+                    <seg type="splitline">κελαινεφὲς αἷμ᾽ ἀπέμασσεν·</seg>
+                </l>
+                <l n="438"><seg type="splitline">αὖτϊς δ᾽ ἐξοπΐσω πλῆτο</seg>
+                    <seg type="splitline">χθονΐ· τὼ δέ οἱ ὄσσε</seg>
+                </l>
+                <l n="439"><seg type="splitline">νϋξ ἐκάλϋψε μέλαινα</seg>
+                    <seg type="splitline">βέλος δ᾽ ἔτϊ θϋμὸν ἐδάμνα</seg>
+                </l>
+                <l n="440"><seg type="splitline">Ἀργεῖοι δ᾽ ὡς ἴδον</seg><seg type="splitline"
+                        >Ἕκτορα νόσφϊκ ϊόντα</seg></l>
+                <l n="441"><seg type="splitline">μᾶλλον ἐπῒ Τρώεσσϊ θόρον</seg><seg type="splitline"
+                        >μνήσαντο δὲ χάρμης</seg></l>
+                <l n="442"><seg type="splitline">ἔνθα πολῢ πρώτϊστος</seg>
+                    <seg type="splitline">Ὀϊλῆος ταχῢς Αἴας</seg></l>
+                <l n="443"><seg type="splitline">Σάτνϊον οὔτασε δουρῒ</seg>
+                    <seg type="splitline">μετάλμενος ὀξϋόεντϊ</seg>
+                </l>
+                <l n="444"><seg type="splitline">Ἠνοπΐδην· ὃν ἄρα νΰμφη</seg>
+                    <seg type="splitline">τέκε νηῒς ἀμΰμων</seg>
+                </l>
+                <l n="445"><seg type="splitline">Ἤνοπϊ βουκολέοντϊ</seg>
+                    <seg type="splitline">παρ᾽ ὄχθας Σατνϊόεντος</seg>
+                </l>
+                <l n="446"><seg type="splitline">τὸν μὲν, Ὀϊλϊάδης</seg>
+                    <seg type="splitline">δουρϊ κλϋτὸς ἐγγΰθεν ἐλθὼν,</seg>
+                </l>
+                <l n="447"><seg type="splitline">οὔτασε καλ λαπάρην</seg>
+                    <seg type="splitline">ὃ δ᾽ ἀνετράπετ᾽. ἀμφϊ δ᾽ ἂρ αὐτῷ</seg>
+                </l>
+                <l n="448"><seg type="splitline">Τρῶες καὶ Δαναοὶ σύναγον</seg>
+                    <seg type="splitline">κρατερὴν ὑσμΐνην</seg>
+                </l>
+                <l n="449"><seg type="splitline">τῶ δ᾽ ἐπῒ Πολϋδάμας</seg>
+                    <seg type="splitline">ἐγχέσπαλος ἦλθεν ἀμύντωρ</seg>
+                </l>
+                <l n="450"><seg type="splitline">Πανθοίδης. βάλε δὲ</seg>
+                    <seg type="splitline">Προθοήνορα δεξϊὸν ὦμον</seg>
+                </l>
+                <l n="451"><seg type="splitline">υἱὸν Ἀρηϊλύκοιο·</seg>
+                    <seg type="splitline">δϊ᾽ ὤμου δ᾽ ὄβρϊμον ἔγχος</seg>
+                </l>
+                <l n="452"><seg type="splitline">ἔσχεν· ὅ δ᾽ ἐν κονΐησϊ πεσὼν</seg>
+                    <seg type="splitline">ἕλε γαῖαν ἀγοστῶ</seg>
+                </l>
+                <l n="453"><seg type="splitline">Πολϋδάμας δ᾽ ἔκπαγλον</seg>
+                    <seg type="splitline">ἐπεύξατο μακρὸν ἀΰσας.</seg>
+                </l>
+                <l n="454"><seg type="splitline">οὐ μὰν, αὐτ᾽ ὀΐω</seg>
+                    <seg type="splitline">μεγαθύμου Πανθοίδαο</seg>
+                </l>
+                <l n="455">χειρὸς ἀπὸ στιβαρῆς ἅλιον πηδῆσαι ἄκοντα. </l>
+                <l n="456"><seg type="splitline">ἀλλά τϊς Ἀργείων κόμϊσε</seg>
+                    <seg type="splitline">χροΐ· καί μϊν ὀΐω</seg>
+                </l>
+                <l n="457"><seg type="splitline">αὐτῷ σκηπτόμενον</seg>
+                    <seg type="splitline">κατΐμεν δόμον Ἄϊδος εἴσω.</seg>
+                </l>
+                <l n="458"><seg type="splitline">ὣς ἔφατ᾽. Ἀργείοισι δ᾽ ἄχος</seg>
+                    <seg type="splitline">γένετ᾽ εὐξαμένοιο·</seg>
+                </l>
+                <l n="459"><seg type="splitline">Αἴαντϊ δὲ μάλϊστα δαΐφρονϊ</seg>
+                    <seg type="splitline">θϋμὸν ὄρϊνε</seg>
+                </l>
+                <l n="460"><seg type="splitline">τῶ Τελαμωνϊάδη</seg>
+                    <seg type="splitline">τοῦ γὰρ πέσεν ἄγχϊ μάλϊστα.</seg>
+                </l>
+                <l n="461"><seg type="splitline">καρπαλΐμως δ᾽ ἀπϊόντος</seg>
+                    <seg type="splitline">ἀκόντϊσε δουρῒ φαεινῶ.</seg>
+                </l>
+                <l n="462"><seg type="splitline">Πολϋδάμας δ᾽ αὐτὸς μὲν</seg>
+                    <seg type="splitline">ἀλεύατο κήρα μέλαιναν</seg>
+                </l>
+                <l n="463"><seg type="splitline">λϊκρϊφὴς ἀΐξας</seg>
+                    <seg type="splitline">κόμϊσε δ᾽ Ἀντήνορος υἱὸς.</seg>
+                </l>
+                <l n="464"><seg type="splitline">Ἀρχέλοχος· τῷ γὰρ ῥὰ θεοὶ</seg>
+                    <seg type="splitline">βούλευσαν ὄλεθρον.</seg>
+                </l>
+                <l n="465"><seg type="splitline">τόν ῥ᾽ ἔβαλε κεφαλῆς τε</seg>
+                    <seg type="splitline">καὶ αὐχένος ἐν συνεοχμῷ</seg>
+                </l>
+                <l n="466"><seg type="splitline">νείατον ἀστράγαλον·</seg>
+                    <seg type="splitline">ἀπὸ δ᾽ ἄμφω κέρσε τένοντε·</seg>
+                </l>
+                <l n="467"><seg type="splitline">τοῦ δὲ, πολῢ προτέρη κεφαλῆ</seg>
+                    <seg type="splitline">στόμα τε ῥῗνες τε</seg>
+                </l>
+                <l n="468"><seg type="splitline">οὔδεϊ πλῆντ᾽ ἤ περ κνῆμαι</seg>
+                    <seg type="splitline">καὶ γοῦνα πεσόντος</seg>
+                </l>
+                <l n="469"><seg type="splitline">Αἴας δ᾽ αὖτ᾽ ἐγέγωγεν</seg>
+                    <seg type="splitline">ἀμΰμονϊ Πολϋδάμαντϊ</seg>
+                </l>
+                <l n="470"><seg type="splitline">φράζεο Πουλϋδάμα</seg>
+                    <seg type="splitline">καί μοι νημερτὲς <choice>
+                            <abbr>ἔνϊσπε</abbr>
+                            <expan>ἔνϊσπες</expan>
+                        </choice></seg>
+                </l>
+                <l n="471"><seg type="splitline">ἦ ῥ᾽ οὐχ᾽ οὗτος ἀνὴρ</seg>
+                    <seg type="splitline">Προθοήνορος ἀντϊ πεφᾶσθαι</seg>
+                </l>
+                <l n="472"><seg type="splitline">ἄξϊος; οὐ μέν μοι κακὸς εἴδεται</seg>
+                    <seg type="splitline">οὐδὲ κακῶν ἔξ.</seg>
+                </l>
+                <l n="473"><seg type="splitline">ἀλλὰ κασΐγνητος</seg>
+                    <seg type="splitline">Ἀντήνορος ¨ἱπποδάμοιο</seg>
+                </l>
+                <l n="474"><seg type="splitline">ἢ πάϊς· αὐτῷ γὰρ γενεὴν</seg>
+                    <seg type="splitline">ἄγχϊστα ἐώκει·</seg>
+                </l>
+                <l n="475"><seg type="splitline">Ἦ ῥ᾽ εὖ γϊνώσκων· Τρῶας δ᾽ ἄχος</seg>
+                    <seg type="splitline">ἔλλαβε θϋμόν.</seg>
+                </l>
+                <l n="476"><seg type="splitline">ἔνθ᾽ Ἀκάμας Πρόμαχον</seg>
+                    <seg type="splitline">Βοιώτϊον οὔτασε δουρΐ·</seg>
+                </l>
+                <l n="477"><seg type="splitline">ἀμφϊ κασϊγνήτῳ βεβαὼς·</seg>
+                    <seg type="splitline">ὃ δ᾽ ὕφελκε ποδοῖϊν</seg>
+                </l>
+                <l n="478"><seg type="splitline">τῶ δ᾽ Ἀκάμας ἔκπαγλον</seg>
+                    <seg type="splitline">ἐπεύξατο μακρὸν ἀΰσας</seg>
+                </l>
+                <l n="479"><seg type="splitline">Ἀργεῖοι ¨ἰόμωροι</seg>
+                    <seg type="splitline">ἀπειλάων ἀκόρητοι</seg>
+                </l>
+                <l n="480"><seg type="splitline">οὔ θην οἵοισϊ γε</seg>
+                    <seg type="splitline">πόνος τ᾽ ἔσεται καὶ ὀϊζύς</seg>
+                </l>
+                <l n="481"><seg type="splitline">ἡμῗν· ἀλλά ποθ᾽ ὧδε</seg>
+                    <seg type="splitline">κατακτανέεσθε καὶ ¨ὕμμες</seg>
+                </l>
+                <l n="482"><seg type="splitline">φράζεσθ᾽ ὡς ὑμῗν</seg>
+                    <seg type="splitline">Πρόμαχος δεδμημένος εὔδει</seg>
+                </l>
+                <l n="483"><seg type="splitline">ἔγχει ἐμῶ· ¨ἵνα μή τϊ</seg>
+                    <seg type="splitline">κασϊγνήτοιό γε ποινή</seg>
+                </l>
+                <l n="484"><seg type="splitline">δηρὸν ἄτϊτος ἔη·</seg>
+                    <seg type="splitline">τῶ καί τϊς εὔχεται ἀνὴρ</seg>
+                </l>
+                <l n="485"><seg type="splitline">γνωτὸν ἐνῒ μεγάροις</seg>
+                    <seg type="splitline">ἄρεως ἀλκτῆρα λϊπέσθαι·</seg>
+                </l>
+                <l n="486"><seg type="splitline">ὣς ἔφατ᾽ Ἀργείοισϊ δ᾽ ἄχος</seg>
+                    <seg type="splitline">γένετ᾽ εὐξαμένοιο</seg>
+                </l>
+                <l n="487"><seg type="splitline">Πηνελέω δὲ μάλϊστα</seg>
+                    <seg type="splitline">δαΐφρονϊ θϋμὸν ὄρϊνεν</seg>
+                </l>
+                <l n="488"><seg type="splitline">ὡρμήθη δ᾽ Ἀκάμαντος</seg>
+                    <seg type="splitline">ὅ δ᾽ οὐχ’ ὑπέμεινεν ἐρωήν·</seg>
+                </l>
+                <l n="489"><seg type="splitline">πηνελέοιο ἄνακτος</seg>
+                    <seg type="splitline">ὅ δ᾽ οὔτασεν ¨Ἰλϊονῆα·</seg>
+                </l>
+                <l n="490"><seg type="splitline">υἱὸν Φόρβαντος πολϋμήλου</seg>
+                    <seg type="splitline">τόν ῥα μάλϊστα·</seg>
+                </l>
+                <l n="491"><seg type="splitline">Ἑρμείας Τρώων ἐφΐλει</seg>
+                    <seg type="splitline">καὶ κτῆσϊν ὄπασσε</seg>
+                </l>
+                <l n="492"><seg type="splitline">τῶ δ᾽ ἂρ ὑπὸ <choice>
+                            <abbr>μήρ</abbr>
+                            <expan>μήτηρ</expan>
+                        </choice></seg>
+                    <seg type="splitline">μοῦνον τέκεν ¨Ἰλϊονῆα</seg>
+                </l>
+                <l n="493"><seg type="splitline">τὸν, τόθ᾽ ὑπὸ φρΰος οὖτα</seg>
+                    <seg type="splitline">κατ᾽ ὀφθαλμοῖο θέμεθλα</seg>
+                </l>
+                <l n="494"><seg type="splitline">ἐκ γ᾽ ὦσε γλήνην</seg>
+                    <seg type="splitline">δόρϋ δ᾽ ὀφθαλμοῖο δϊὰ πρὸ</seg>
+                </l>
+                <l n="495"><seg type="splitline">καὶ δϊὰ ¨ἰνΐου ἦλθεν·</seg>
+                    <seg type="splitline">ὅ δ᾽ ἕζετο χεῖρε πετάσσας,</seg>
+                </l>
+                <l n="496"><seg type="splitline">ἄμφω· Πηνέλεως δὲ</seg>
+                    <seg type="splitline">ἐρϋσσάμενος ξΐφος ὀξῢ,</seg>
+                </l>
+                <l n="497"><seg type="splitline">αὐχένα μέσσον ἔλασσεν</seg>
+                    <seg type="splitline">ἀπήρραξε δὲ χαμᾶζε</seg>
+                </l>
+                <l n="498"><seg type="splitline">αὐτῇ σὺν πήληκϊ κάρη·</seg>
+                    <seg type="splitline">ἔτϊ δ᾽ ὄβρϊμον ἔγχος</seg>
+                </l>
+                <l n="499"><seg type="splitline">ἦεν ἐν ὀφθαλμῷ</seg>
+                    <seg type="splitline">ὅ δ᾽ ἔφη κώδειαν ἀνασχών</seg>
+                </l>
+                <l n="500"><seg type="splitline">πέφραδέ τε Τρώεσσϊ</seg>
+                    <seg type="splitline">καὶ εὐχόμενος ἔπος ηὔδα</seg>
+                </l>
+                <l n="501"><seg type="splitline">εἰπέμεναί μοι Τρῶες</seg>
+                    <seg type="splitline">ἀγαυοῦ ¨Ἰλϊονῆος</seg>
+                </l>
+                <l n="502"><seg type="splitline">πατρῒ φΐλῳ καὶ μητρῒ</seg>
+                    <seg type="splitline">γοήμεναι ἐν μεγάροισϊν·</seg>
+                </l>
+                <l n="503"><seg type="splitline">οὐδὲ γὰρ ἡ Προμάχοιο</seg>
+                    <seg type="splitline">δάμαρ Ἀλεγηνορΐδαο</seg>
+                </l>
+                <l n="504"><seg type="splitline">ἀνδρῒ φΐλῳ ἐλθόντϊ</seg>
+                    <seg type="splitline">γανύσσεται. ὁπόττε κεν δὴ</seg>
+                </l>
+                <l n="505"><seg type="splitline">ἐκ Τροίης σὺν νηυσῒ</seg>
+                    <seg type="splitline">νεώμεθα κοῦροι Ἀχαιῶν.</seg>
+                </l>
+                <l n="506"><seg type="splitline">ὣς φατο· τούς δ᾽ ἄρα πάντας</seg>
+                    <seg type="splitline">ὑπὸ χλωρὸν δέος εἷλε·</seg>
+                </l>
+                <l n="507"><seg type="splitline">πάπτηνε δὲ ἕκαστος</seg>
+                    <seg type="splitline">ὅπη φύγοι αἰπὺν ὄλεθρον·</seg>
+                </l>
+                <l n="508"><seg type="splitline">ἕσπετε νῦν μοι Μοῦσαι</seg>
+                    <seg type="splitline">Ὀλΰμπϊα δώματ᾽ ἔχουσαι·</seg>
+                </l>
+                <l n="509"><seg type="splitline">ὅς τϊς δὴ πρῶτος</seg>
+                    <seg type="splitline">βροτόεντ᾽ ἀνδράγρϊ᾽ Ἀχαιῶν</seg>
+                </l>
+                <l n="510"><seg type="splitline">ἤρατ᾽ ἐπεί ῥ᾽ ἔκλϊνε μάχην</seg>
+                    <seg type="splitline">κλϋτὸς ἐννοσΐγαιος</seg>
+                </l>
+                <l n="511"><seg type="splitline">Αἴας ῥα πρῶτος Τελαμώνϊος</seg>
+                    <seg type="splitline">Ὕρτϊον οὔτα·</seg>
+                </l>
+                <l n="512"><seg type="splitline">Γϋρτϊάδην Μϋσῶν</seg>
+                    <seg type="splitline">ἡγήτορα καρτεροθύμων·</seg>
+                </l>
+                <l n="513"><seg type="splitline">Φάλκην δ᾽ Ἀντΐλοχος</seg>
+                    <seg type="splitline">καὶ Μέρμερον ἐξενάρϊξε</seg>
+                </l>
+                <l n="514"><seg type="splitline">Μηρϊόνης δὲ Μόρυν τε</seg>
+                    <seg type="splitline">καὶ ¨Ἱπποτΐωνα κατέκτα</seg>
+                </l>
+                <l n="515"><seg type="splitline">Τεῦκρος δὲ Προθόωνά τ᾽</seg>
+                    <seg type="splitline">ἐνήρατο καὶ Περϊφήτην</seg>
+                </l>
+                <l n="516"><seg type="splitline">Ἀτρείδης δ᾽ ἂρ ἔπειθ᾽</seg>
+                    <seg type="splitline">Ὑπερήνορα ποιμένα λαῶν</seg>
+                </l>
+                <l n="517"><seg type="splitline">οὔτασε καλ λαπάρην·</seg>
+                    <seg type="splitline">δϊὰ δ᾽ ἔντερα χαλκὸς ἄφυσσε·</seg>
+                </l>
+                <l n="518"><seg type="splitline">δηώσας· ψϋχὴ δὲ</seg>
+                    <seg type="splitline">κατ᾽ οὐταμένην ὠτειλὴν</seg>
+                </l>
+                <l n="519"><seg type="splitline">ἔσσϋτ᾽ ἐπειγομένη</seg>
+                    <seg type="splitline">τὸν δὲ, σκότος ὄσσ εκάλϋψε</seg>
+                </l>
+                <l n="520"><seg type="splitline">πλείστους δ᾽ Αἴας εἶλεν·</seg>
+                    <seg type="splitline">Ὀϊλῆος ταχῢς υἱὸς</seg>
+                </l>
+                <l n="521"><seg type="splitline">οὐ γάρ οἱ τΐς ὅμοῖος</seg>
+                    <seg type="splitline">ἐπϊσπέσθαι ποσῒν ἦεν,</seg>
+                </l>
+                <l n="522"><seg type="splitline">ἀνδρῶν τρεσσάντων</seg>
+                    <seg type="splitline">ὅτε τε Ζεὺς ἐν φόβον ὄρση⁑</seg>
+                </l>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/teilite.rng" type="xml"?>
+<?xml-stylesheet type="text/xsl" href="multifolio-html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Scholia inventory for U4</title>
+                <author>Melissa Browne</author>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished working notebook.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Born-digital work.</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>Copy or clone the final, empty row below to add new, blank rows.</p>
+            <div n="u4">
+                <head>U4 scholia of Book 14</head>
+                <p>Feel free to add paragraphs ("p") element describing each set of entries in your
+                    notebook.</p>
+                <table>
+                    <row role="label">
+                        <cell>Text or object identifier</cell>
+                        <cell>Description or note</cell>
+                        <cell>Image identifier</cell>
+                        <cell>Region of interest on image</cell>
+                        <cell>MS-folio reference</cell>
+                    </row>
+                    <row>
+                        <cell>1</cell>
+                        <cell>1st main scholion, book 14</cell>
+                        <cell>urn:cite:hmt:chsimg.U4001VN-0002</cell>
+                        <cell>0.11753869,0.78229599,0.09358880,0.05062241</cell>
+                        <cell>1v</cell>
+                    </row>
+                    <row>
+                        <cell>2</cell>
+                        <cell>2nd main scholion, book 14</cell>
+                        <cell>urn:cite:hmt:chsimg.U4002RN-0003</cell>
+                        <cell>0.76197494,0.49460581,0.11422255,0.09239281</cell>
+                        <cell>2r</cell>
+                    </row>
+                    <row>
+                        <cell>3</cell>
+                        <cell>3rd main scholion, book 14</cell>
+                        <cell>urn:cite:hmt:chsimg.U4002VN-0004</cell>
+                        <cell>0.10943257,0.64204703,0.08732498,0.05587828</cell>
+                        <cell>2v</cell>
+                    </row>
+                    <row>
+                        <cell>4</cell>
+                        <cell>4th main scholion, book 14</cell>
+                        <cell>urn:cite:hmt:chsimg.U4003RN-0005</cell>
+                        <cell>0.34266765,0.25670816,0.08843036,0.03264177</cell>
+                        <cell>3r</cell>
+                    </row>
+                    <row>
+                        <cell>5</cell>
+                        <cell>5th main scholion, book 14</cell>
+                        <cell>urn:cite:hmt:chsimg.U4003RN-0005</cell>
+                        <cell>0.70670597,0.44426003,0.12269713,0.08686030</cell>
+                        <cell>3r</cell>
+                    </row>
+                    <row>
+                        <cell>6</cell>
+                        <cell>6th main scholion, book 14</cell>
+                        <cell>urn:cite:hmt:chsimg.U4003RN-0005</cell>
+                        <cell>0.35740604,0.71313970,0.08511422,0.02489627</cell>
+                        <cell>3r</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

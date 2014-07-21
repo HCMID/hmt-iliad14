@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet  type="text/css" href="scholia-css/tei-scholia.css" title="TEI
+style simple scholia" alternate="no"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>msU4 Iliad 14, 80v–</title>
+            <author>Christine Roughan</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>Unpublished</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Transcribed from U4 MS</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <group n="14">
+         <text n="msU4">
+            <body>
+               <note> Questions: "msU4" is a placeholder -- what is the proper notation? Should scholia
+                  be divided in any way according to their placement on the folio? Gap tag used to note where material was lost off the edge of the folio.</note>
+               <div ana="xx" n="1" type="scholion">
+                  <div type="lemma">
+                     <p> </p>
+                  </div>
+                  <div type="ref">
+                     <p>14.454<note>unclear</note></p>
+                  </div>
+                  <div type="comment">
+                     <p><gap reason="lost"/>ε αὐτὸν λέγει ποῖησαι δὲ <gap reason="lost"
+                           /><unclear>ευ</unclear>κ<unclear>ϋνοτα</unclear>
+                        <unclear>αέν</unclear> τῒ τοῦ <gap reason="lost"
+                           /><unclear>πυ</unclear>π<unclear>ό</unclear>δακέναι καὶ ἐξορ<gap
+                           reason="lost"/>μακέ<unclear>ναι⁑</unclear></p>
+                  </div>
+               </div>
+               <div ana="xx" n="2" type="scholion">
+                  <div type="lemma">
+                     <p> </p>
+                  </div>
+                  <div type="ref">
+                     <p>14.465</p>
+                  </div>
+                  <div type="comment">
+                     <p><rs type="waw">ἐν τῶ συνδέσμω</rs> ἔστϊν δὲ παρὰ τ<gap reason="lost"/><rs
+                           type="waw">ἐχώ</rs>
+                        <rs type="waw">ἐχμὸς</rs>· ὲ δίπλωσϊς<gap reason="lost"/> ὡς <rs type="waw"
+                           >ἐἐλδορ</rs>
+                        <rs type="waw">ἐοχμὸς</rs> ὁ<gap reason="lost"/><rs type="waw">πλεγμὸς</rs>
+                        <rs type="waw">πλογμὸς</rs><gap reason="lost"/>δέ ἐστϊ
+                        κ<unclear>υ</unclear>θ' ὃ συνδέ<gap reason="lost"/>δεται ὁ τράχηλος τῆ
+                           κε<gap reason="lost"/></p>
+                  </div>
+               </div>
+               <div ana="xx" n="3" type="scholion">
+                  <div type="lemma">
+                     <p> </p>
+                  </div>
+                  <div type="ref">
+                     <p>14.485<note>unclear</note></p>
+                  </div>
+                  <div type="comment">
+                     <p><gap reason="lost"/><unclear>κ</unclear>τῆρα τοῦ πολέμου <gap reason="lost"
+                           /><unclear>ε</unclear>ξητῆρα καὶ βοηθὸν <gap reason="lost"/>ς τϊνες φόνου
+                        τϊ μωρόν⁑</p>
+                  </div>
+               </div>
+               <div ana="xx" n="4" type="scholion">
+                  <div type="lemma">
+                     <p> </p>
+                  </div>
+                  <div type="ref">
+                     <p>14.493</p>
+                  </div>
+                  <div type="comment">
+                     <p> θέμεθλα τὰς ῥΐζας λέγει τοῦ ὀφθαλμοῦ⁑</p>
+                  </div>
+               </div>
+               <div ana="xx" n="5" type="scholion">
+                  <div type="lemma">
+                     <p> </p>
+                  </div>
+                  <div type="ref">
+                     <p>14.499</p>
+                  </div>
+                  <div type="comment">
+                     <p>ἐλλείπει τὸ <rs type="waw">ως</rs> ἵ¨ν' ἦ ὡς κώδειαν ἀνατείνας κώδεια δέ
+                        ἐστϊν ἡ τῆς μήκωνος κεφαλῆ ἥ ἐστϊν εἶδος <choice>
+                           <abbr>βοτή</abbr>
+                           <expan/>
+                        </choice> οὗτος οὖν φῆσιν <choice>
+                           <abbr>εἶπ</abbr>
+                           <expan>εἶπε</expan>
+                        </choice> τὴν <choice>
+                           <abbr>κεφαλ</abbr>
+                           <expan>κεφαλὴν</expan>
+                        </choice> ἀνατείνας⁑</p>
+                  </div>
+               </div>
+               <div ana="xx" n="6" type="scholion">
+                  <div type="lemma">
+                     <p> </p>
+                  </div>
+                  <div type="ref">
+                     <p>14.506</p>
+                  </div>
+                  <div type="comment">
+                     <p>γράφεται <rs type="waw">ὑ¨πο τρόμος ἔλλαβε γυῖα</rs>⁑ </p>
+                  </div>
+               </div>
+            </body>
+         </text>
+      </group>
+   </text>
+</TEI>
