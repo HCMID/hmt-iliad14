@@ -1,0 +1,14 @@
+project.ext {
+
+  textInventory="/vagrant/hmt-iliad14/geneva44/editions/inventory.xml"
+  textArchive="/vagrant/hmt-iliad14/geneva44/editions"
+
+    // Lists of index files to use in verification:
+    folioToImage = "/vagrant/hmt-iliad14/geneva44/indices/venA-folioToImage.csv"
+
+    textToImage = "/vagrant/hmt-iliad14/geneva44/indices/venA-textToImage-Iliad.csv"
+    textToFolio = "/vagrant/hmt-iliad14/geneva44/indices/venA-textToFolio-Iliad.csv"
+
+    scholiaInventories = "/vagrant/hmt-iliad14/geneva44/collections/venA-exterior.csv,/vagrant/hmt-iliad14/geneva44/collections/venA-intermarginal.csv,/vagrant/hmt-iliad14/geneva44/collections/venA-interior.csv,/vagrant/hmt-iliad14/geneva44/collections/venA-mainScholia.csv,/vagrant/hmt-iliad14/geneva44/collections/venA-interlinear.csv"
+    
+}
