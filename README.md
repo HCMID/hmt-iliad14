@@ -1,4 +1,4 @@
-hmt-iliad14
-===========
+#hmt-iliad14#
 
-Iliad 14 in MSS with Byzantine prose paraphrase
+Project to edit and analyze relation of  Byzantine prose paraphrase to *Iliad* text in 
+*Iliad* 14.
