@@ -1,4 +1,3 @@
-#hmt-iliad14#
+#Paraphrases of the *Iliad*#
 
-Project to edit and analyze relation of  Byzantine prose paraphrase to *Iliad* text in 
-*Iliad* 14.
+Project to edit Byzantine prose paraphrases of *Iliad* text in MSS of the Homer Multitext project.
